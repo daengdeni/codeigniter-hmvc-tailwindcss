@@ -1,0 +1,18 @@
+{
+	"description": "The CodeIgniter framework with HMVC Library and tailwindcss",
+	"name": "daengdeni/codeigniter-hmvc-tailwindcss",
+	"type": "project",
+	"homepage": "https://github.com/daengdeni/codeigniter-hmvc-tailwindcss",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.2.4",
+		"vlucas/phpdotenv": "^5.3"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsstream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}
